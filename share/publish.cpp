@@ -8,7 +8,7 @@ using namespace std;
 //Please replace the username, feed and token with your values
 #define ADDRESS    "tcp://io.adafruit.com"
 #define CLIENTID   "Beagle1"
-#define TOPIC      "jennahbrt/feeds/weather.temperature"
+#define TOPIC      "jennahbrt/feeds/freezing-pipes.jenna-temp"
 #define AUTHMETHOD "jennahbrt"
 #define AUTHTOKEN  "aio_NLCR95SsSbsj1FPT2YCG29KwZr9K"
 #define QOS        1
